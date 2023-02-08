@@ -1,0 +1,51 @@
+long,lat,nombre,calle,altura,cruce,telefono,e_mail,web,barrio,comuna,codigo_postal,codigo_postal_argentino
+-58.3902484171794,-34.5935384856365,Corazón Eucarístico de Jesús,Montevideo,1372,,4812-1735,pauaci@datamarkets.com.ar,,Recoleta,Comuna 2,1018,C1018ACD
+-58.4438604399436,-34.5742813463498,Corpus Christi,Amenábar,450,,4553-0219,,,Colegiales,Comuna 13,1426,C1426AJF
+-58.3824658679944,-34.6178817901876,Del Nazareno,Avda. Independencia,1166,,4304-0984,,,Constitucion,Comuna 1,1099,C1099AAY
+-58.3927655763439,-34.602272774157,Del Salvador,Avda. Callao,580,,4374-5653; 4373-703,,,Balvanera,Comuna 3,1022,C1022AAS
+-58.3827708023342,-34.6183063426188,Divino Salvador,Salta,870,,4304-0984,,,Constitucion,Comuna 1,1074,C1074AAR
+-58.4163928099388,-34.6028833855521,Inmaculada Concepción,Mario Bravo,563,,4862-1635,,,Almagro,Comuna 5,1175,C1175ABI
+-58.4679090902667,-34.570367339727,Madre Reina Admirable de Schoenstatt,Echeverría,3632,,,,,Belgrano,Comuna 13,1430,C1430BTH
+-58.4215224298237,-34.6142571555087,María Auxiliadora,Yapeyú,172,,4981-6529,,,Almagro,Comuna 5,1202,C1202ACD
+-58.4121686987942,-34.5981920528895,María Inmaculada,Gallo,986,,4862-1422,,,Almagro,Comuna 5,1172,C1172ABT
+-58.4632434161736,-34.6232868609677,María Madre Purísima,Caracas,533,,,,,Flores,Comuna 7,1406,C1406AZI
+-58.4109932296185,-34.6211369320459,Mater Misericordiae,24 de Noviembre,865,,4931-2219,,,San Cristobal,Comuna 3,1224,C1224AAG
+-58.4173297321668,-34.5888686546045,Nuestra Señora de Guadalupe,Mansilla,3851,,4823-1160,,,Palermo,Comuna 14,1425,C1425BQA
+-58.4051052910089,-34.6552232110326,Nuestra Señora de la Medalla Milagrosa,Santo Domingo,3940,,,,,Nueva Pompeya,Comuna 4,1437,C1437IDD
+-58.4154018381165,-34.6092475096581,Nuestra Señora de la Merced de Sión,Bartolomé Mitre,3459,,4865-3155,,,Almagro,Comuna 5,1201,C1201AAM
+-58.3971924590961,-34.5899012748979,Nuestra Señora de la Misericordia,Azcuénaga,1654,,4805-7527/9465,,,Recoleta,Comuna 2,1128,C1128AAB
+-58.4566844198378,-34.6324256874997,Nuestra Señora de la Misericordia,Avda. Directorio,2118,,4631-0316,,,Flores,Comuna 7,1406,C1406GZX
+-58.4492246284568,-34.5675431030511,Nuestra Señora de la Misericordia,Avda. Cabildo,1333,,4784-5209,,,Belgrano,Comuna 13,1426,C1426ABA
+-58.3991947427729,-34.6357309105388,Nuestra Señora de Luján,Avda. Jujuy,2181,,4942-0559,,,Parque Patricios,Comuna 4,1247,C1247ABJ
+-58.5040952580228,-34.5876526275184,Nuestra Señora del Huerto,Avda. Gral. Mosconi,3054,,4571-9316,,,Villa Pueyrredon,Comuna 12,1419,C1419EQW
+-58.3961920045008,-34.6187189775033,Nuestra Señora del Huerto,Rincón,827,,4942-4585,,,San Cristobal,Comuna 3,1227,C1227ACG
+-58.3716895282795,-34.6127159718721,Nuestra Señora del Rosario (Basílica),Defensa,422,,4331-1668; 4343-500,dominba@ciudad.com.ar,,Monserrat,Comuna 1,1065,C1065AAH
+-58.4034664833724,-34.5921559413638,Nuestro Señor de la Salud,Anchorena,1563,,4822-0508,,,Recoleta,Comuna 2,1425,C1425ELI
+-58.3951993106205,-34.6103561310137,Regina Martyrum,Hipólito Yrigoyen,2025,,4951-8028,,www.iglesiaregina.org,Balvanera,Comuna 3,1089,C1089AAM
+-58.3813280955279,-34.5910838868768,Sagrado Corazón de Jesús,Carlos Pellegrini,1441,,4393-4255,,,Retiro,Comuna 1,1011,C1011AAC
+-58.3867226983209,-34.6241769096488,Sagrado Corazón de Jesús,Cochabamba,1470,,4307-1334,,,Constitucion,Comuna 1,1148,C1148ABB
+-58.4232028558,-34.6204460522695,San Antonio,México,4050,,4931-2139/6554,,,Almagro,Comuna 5,1223,C1223ACF
+-58.3717263547802,-34.6103069650168,San Francisco (Basílica),Alsina,380,,4331-0625,,,Monserrat,Comuna 1,1087,C1087AAD
+-58.4210097145799,-34.6156307824215,San Francisco de Sales,Avda. Belgrano,3863,,982-5400,,,Almagro,Comuna 5,1210,C1210AAG
+-58.4359767110959,-34.5934324837126,San José,Gurruchaga,1010,,4773-1097,,,Villa Crespo,Comuna 15,1414,C1414DHV
+-58.378025046827,-34.6107481934275,San Juan Bautista,Alsina,824,,4342-1315,gasparfernandez@ciudad.com.a,www.geocities.com/betharra,,,,
+-58.3943733243874,-34.6014938382906,San Juan Bautista de la Salle,Riobamba,650,,4374-0657,,,Balvanera,Comuna 3,1025,C1025ABN
+-58.3900862345358,-34.5965294211496,San Marcelino Champagnat,Montevideo,1050,,4812-8336,,,Recoleta,Comuna 2,1019,C1019ABV
+-58.4989929236684,-34.5895247514362,San Pablo Apóstol,Avda. Nazca,4249,,4572-3926,,,Villa Pueyrredon,Comuna 12,1419,C1419DFF
+-58.3717263547802,-34.6103069650168,San Roque,Alsina,380,,4331-0625,,,Monserrat,Comuna 1,1087,C1087AAD
+-58.3734414563663,-34.637147685315,Santa Felicitas,Isabel la Católica,520,,4301-1964,secretaria@santafelicitas.or,www.santafelicitas.org.ar,Barracas,Comuna 4,1268,C1268ACL
+-58.4952909239032,-34.5967288945702,Santa Francisca Romana,San Martín,5555,,,,,Agronomia,Comuna 15,1417,C1417DTC
+-58.4249348091558,-34.6321268837653,Santa María Mazzarello,Garay,4353,,4923-2109,,,Boedo,Comuna 5,1256,C1256ABM
+-58.408135062285,-34.6008552966242,Santa Teresa de Jesús,Tucumán,3029,,,,,Balvanera,Comuna 3,1189,C1189AAG
+-58.4237548011671,-34.6070903123513,Santa Teresa de Jesús,Potosí,4049,,4861-4054,,,Almagro,Comuna 5,1199,C1199ACG
+-58.5125134311481,-34.5779663626813,Santa Teresa del Niño Jesús,Ezeiza,3054,,4572-1727,,,Villa Pueyrredon,Comuna 12,1419,C1419FTP
+-58.4386101197166,-34.568487981876,Santo Cristo,Villanueva,933,,,,,Palermo,Comuna 14,1426,C1426BMA
+-58.4468805164517,-34.6380019296293,Santos Mártires Coreanos,Thorne,1261,1269,4634-0045,stmartireskr@hanmail.net,,Parque Chacabuco,Comuna 7,1406,C1406CZE
+-58.4682835842191,-34.6215194249391,Señor de la Buena Esperanza,Felipe Vallese,2549,,4611-5764,,,Flores,Comuna 7,1406,C1406FSW
+-58.3899245500152,-34.6123514964122,Mater Misericordiae,Moreno,1669,,4372-6159,,,Monserrat,Comuna 1,1093,C1093ABE
+-58.4623577679347,-34.552697723253,San Bonifacio,Cuba,2981,,4703-3021,pad@ibersoft.com.ar,,Nu\u00f1ez,Comuna 13,1429,C1429AXC
+-58.3738702170401,-34.5996976697054,Santa Catalina de Siena,San Martín,705,,5238-6040,info@santacatalina.org.ar,www.santacatalina.org.ar,San Nicolas,Comuna 1,1004,C1004AAO
+-58.4706972664052,-34.6161126052062,Sagrada Familia,Gral. José G. de Arti,1276,,4581-2774,,,,,,
+-58.4523766573876,-34.5727846476558,Sagrada Familia de Nazareth,Emilio Conesa,1076,,4551-4198,,,,,,
+-58.384917067384,-34.6212692246426,San José,Humberto 1º,1340,,4304-5030,,,,,,
+-58.4389312333901,-34.6056564916372,Divino Rostro,Avda. Angel Gallardo,0,Campichuelo,4982-5277,,,,,,

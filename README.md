@@ -1,2 +1,2 @@
-# Data_science_Ejemplos
-Voy a ir subiendo diferentes ejemplos de Data Science
+# Data Science Proyectos
+Repositorio donde subire diferentes proyectos de Data Science

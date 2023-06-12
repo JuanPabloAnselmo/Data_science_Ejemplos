@@ -1,3 +1,5 @@
+# Predictive Classifier for Heart Disease (Optuna / Logistic Regression, Random Forest y XGboost)
+
 ## Problema
 
  Las enfermedades cardiovasculares (ECV) son la primera causa de muerte en el mundo, y se calcula que cada año se cobran 17,9 millones de vidas, lo que representa el 31% de todas las muertes en el mundo. La insuficiencia cardíaca es una de las causas más frecuentes de ECV. Las personas con enfermedades cardiovasculares o que presentan un alto riesgo cardiovascular (debido a la presencia de uno o más factores de riesgo como hipertensión, diabetes, hiperlipidemia o enfermedad ya establecida) necesitan una detección y gestión tempranas en las que un modelo de aprendizaje automático puede ser de gran ayuda. De este modo, tratamos de resolver de forma automatizada otro problema que se presenta en la naturaleza con vistas a contrarrestarlo y centrarnos en el siguiente problema con la ayuda de las técnicas de IA.

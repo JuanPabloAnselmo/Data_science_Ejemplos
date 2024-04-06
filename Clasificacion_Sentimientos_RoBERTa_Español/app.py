@@ -78,13 +78,13 @@ def predict(review_text):
 
 amazon_app = gr.Interface(
     fn=predict,
-    inputs=gr.inputs.Textbox(label="Introduce tu reseña aquí:", placeholder="Escribe aquí..."),
-    outputs=[gr.outputs.Label(label="Predicción"), gr.outputs.Label(label="Puntaje")],
+    inputs=gr.Textbox(label="Introduce tu reseña aquí:", placeholder="Escribe aquí..."),
+    outputs=[gr.Label(label="Predicción"), gr.Label(label="Puntaje")],
     title="Análisis de sentimientos de reseñas de productos en Español",
     description="Ingresa una reseña de algun producto y obtén una predicción sobre si su sentimiento es positivo o negativo. (Max. 250 caracteres)",
     theme="Agora",
-    layout="vertical",
-    interpretation="default",
+    #layout="vertical",
+    #interpretation="default",
     allow_flagging=False,
     analytics_enabled=False
 )
